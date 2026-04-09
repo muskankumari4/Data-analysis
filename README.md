@@ -1,5 +1,4 @@
-#  Data Cleaning & Preprocessing 
-This code provides a comprehensive framework for performing Exploratory Data Analysis (EDA) on the Titanic dataset, focusing on identifying patterns, handling anomalies, and visualizing relationships to derive actionable insights.
+
 # Data Cleaning Pipeline in Python
 This repository contains a streamlined, modular script for preprocessing raw datasets using pandas and numpy. The pipeline automates the "grunt work" of data cleaning, ensuring consistency and readiness for Exploratory Data Analysis (EDA) or Machine Learning.
 ## 🚀 Features
